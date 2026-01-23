@@ -134,3 +134,41 @@ But their **strengths outweigh their weaknesses** so heavily that the flaws beco
 
 ## 📊 Tier Comparison
 
+
+---
+
+## 🧠 Examples of S-Tier Traits (Not a List)
+
+- Combat that becomes muscle memory
+- Systems that surprise even veterans
+- Soundtracks that instantly trigger memory
+- Worlds that feel indifferent to you
+
+If a game does **three or more** of these —  
+you’re probably looking at S Tier.
+
+---
+
+## 🏁 Final Definition
+
+> **S Tier is where games stop being products  
+> and start being experiences.**
+
+They don’t chase trends.  
+They **become references**.
+
+---
+
+## ⭐ TL;DR
+
+S-Tier games:
+- Take risks
+- Respect players
+- Leave a mark
+
+They aren’t for everyone.  
+They don’t need to be.
+
+---
+
+_This tier is earned — not given._ 🏆
