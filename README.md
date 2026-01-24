@@ -1,4 +1,4 @@
-# 🏆 S Tier — The Standard of Excellence
+# 💯 S Tier — The Standard of Excellence
 
 > _“Not perfect. Not flawless. Just unforgettable.”_
 
