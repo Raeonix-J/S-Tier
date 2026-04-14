@@ -1,182 +1,106 @@
-# 💯 S Tier — The Standard of Excellence
+# Mirror's Edge (2008) – Tier Ranking Analysis
 
-> _“Not perfect. Not flawless. Just unforgettable.”_
-
----
-
-## 📌 What Is S Tier?
-
-**S Tier** is not about hype.  
-It’s not about budget.  
-It’s not about review scores.
-
-> **S Tier is where games change how you think about games.**
-
-These are experiences that:
-- Stay with you long after you stop playing
-- Set benchmarks others chase
-- Feel *alive*, not manufactured
+## 🎮 Final Tier Placement: **S Tier**
 
 ---
 
-## 🚫 What S Tier Is NOT
+## 📌 Overview
 
-Before defining S Tier, let’s clear the noise.
-
-S Tier is **not**:
-- The most popular game
-- The highest-selling title
-- The most polished experience
-- A game without flaws
-
-Perfection is optional.  
-**Impact is mandatory.**
+Mirror's Edge (2008), developed by DICE and published by Electronic Arts, is a first-person parkour action game focused on fluid movement, speed, and environmental navigation. You play as Faith, a Runner delivering messages in a surveillance-heavy dystopian city.
 
 ---
 
-## 🧠 Core Requirements of S Tier
+## ⚔️ Strengths (Why it reaches S Tier)
 
-A game must meet **most** of these to qualify.
+### 1. Revolutionary Movement System
 
----
+* First-person parkour was **innovative and genre-defining** at release
+* Movement feels fluid, skill-based, and satisfying
+* Momentum and timing create a high skill ceiling
 
-### 🔥 1. Mechanical Identity
+This system influenced many future games and remains unique even today.
 
-An S-Tier game has mechanics you can recognize instantly.
+### 2. Minimalist Visual Design
 
-- You can describe it without naming it
-- Copycats appear after it
-- Its systems feel intentional, not safe
+* Clean, high-contrast aesthetic with bold colors
+* "Runner Vision" subtly guides players without cluttering UI
 
-> If you remove the skin, the game still stands.
+The art style is timeless and instantly recognizable.
 
----
+### 3. Strong Sense of Flow
 
-### 🧪 2. Systems Over Scripts
+* Gameplay rewards chaining actions seamlessly
+* Encourages speedrunning and mastery
 
-S-Tier games trust players.
+Few games match the feeling of continuous motion it delivers.
 
-They:
-- Encourage experimentation
-- Allow emergent gameplay
-- Reward curiosity and mastery
+### 4. Sound & Immersion
 
-You don’t just **play** the game —  
-you **interact** with it.
+* Dynamic music that reacts to movement
+* Environmental audio enhances tension and speed
 
----
-
-### 🧭 3. Player Respect
-
-An S-Tier game assumes intelligence.
-
-- Minimal hand-holding
-- Failure teaches, not punishes
-- Mastery feels earned
-
-It doesn’t rush you.  
-It doesn’t beg for attention.
+Immersion is achieved without overwhelming the player.
 
 ---
 
-### 🌍 4. World With Presence
+## ⚠️ Weaknesses (Why it is NOT Z Tier)
 
-The world doesn’t exist for decoration.
+### 1. Combat is Weak
 
-It:
-- Pushes back
-- Feels hostile, lonely, or alive
-- Responds to your actions
+* Gunplay and melee feel clunky compared to movement
+* Best played by avoiding combat entirely
 
-You feel like a **visitor**, not the center of the universe.
+Combat systems clash with the core design philosophy.
 
----
+### 2. Story is Basic
 
-### 🎯 5. Cohesive Vision
+* Narrative is serviceable but not deeply engaging
+* Characters lack strong development
 
-Every system serves the same goal.
+It doesn’t reach the narrative excellence of top-tier story games.
 
-- Mechanics support tone
-- Art supports gameplay
-- Music supports pacing
+### 3. Trial-and-Error Frustration
 
-Nothing feels accidental.  
-Nothing feels stitched together.
+* Some sections rely on memorization
+* Mistakes can break flow abruptly
 
----
-
-### 🕰️ 6. Timelessness
-
-S-Tier games **age differently**.
-
-- They remain playable years later
-- Their ideas don’t expire
-- They inspire discussion long after release
-
-Graphics fade.  
-**Design endures.**
+This can frustrate new players.
 
 ---
 
-## ⚠️ Flaws Are Allowed (Even Expected)
+## 🧠 Why NOT Z Tier?
 
-Many S-Tier games are rough.
+Z Tier would require:
 
-They may have:
-- Clunky UI
-- Dated visuals
-- Steep learning curves
-- Niche appeal
+* Near-perfect execution across all systems
+* Strong narrative or broader gameplay depth
 
-But their **strengths outweigh their weaknesses** so heavily that the flaws become footnotes.
+Mirror's Edge falls short due to weak combat and limited gameplay variety outside movement.
 
 ---
 
-## 📊 Tier Comparison
+## ⚖️ Final Verdict
 
+**S Tier** is well deserved:
 
----
-
-## 🧠 Examples of S-Tier Traits (Not a List)
-
-- Combat that becomes muscle memory
-- Systems that surprise even veterans
-- Soundtracks that instantly trigger memory
-- Worlds that feel indifferent to you
-
-If a game does **three or more** of these —  
-you’re probably looking at S Tier.
+* Highly innovative and influential
+* Exceptional core gameplay loop
+* Minor flaws that don’t overshadow its brilliance
 
 ---
 
-## 🏁 Final Definition
+## 🏁 Summary Table
 
-> **S Tier is where games stop being products  
-> and start being experiences.**
-
-They don’t chase trends.  
-They **become references**.
-
----
-
-## ⭐ TL;DR
-
-S-Tier games:
-- Take risks
-- Respect players
-- Leave a mark
-
-They aren’t for everyone.  
-They don’t need to be.
+| Category      | Rating |
+| ------------- | ------ |
+| Movement      | ⭐⭐⭐⭐⭐  |
+| Visual Design | ⭐⭐⭐⭐⭐  |
+| Combat        | ⭐⭐☆☆☆  |
+| Story         | ⭐⭐⭐☆☆  |
+| Innovation    | ⭐⭐⭐⭐⭐  |
 
 ---
 
-_This tier is earned — not given._ 🏆
+## 💬 Closing Thoughts
 
----
-
-
-**Well Here are the Games:-**
-
-1. [Dragon's Dogma: Dark Arisen](https://github.com/Raeonix-J/S-Tier/tree/Dragon's-Dogma-Dark-Arisen)
-2. [Trine 2: The Complete Story](https://github.com/Raeonix-J/S-Tier/tree/Trine-2-The-Complete-Story)
+Mirror's Edge is a **landmark game** that proves a single, well-executed idea can carry an entire experience. Its influence and uniqueness secure its place in S Tier, even if it isn’t perfect.
